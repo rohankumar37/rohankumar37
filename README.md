@@ -1,6 +1,6 @@
 <h2> Hello World!🌎 Rohan Kumar here <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohankumar37&label=Profile%20views&color=brightgreen&style=flat" alt="rohankumar37" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohankumar37&label=Profile%20views&color=blue&style=flat" alt="rohankumar37" /> </p>
 <p align="left"> <a href="https://twitter.com/rohankum37" target="blank"><img src="https://img.shields.io/twitter/follow/rohankum37?logo=twitter&style=for-the-badge" alt="rohankum37" /></a> </p>
 
 
