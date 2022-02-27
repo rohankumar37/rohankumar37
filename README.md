@@ -8,7 +8,7 @@
 
 - 🎓 &nbsp; Studying ECE at Indian Institute of Information Technology Surat (2023).
 - 💻 &nbsp; Exploring new technologies and developing software solutions.
-- 🌱 &nbsp; Learning ReactJS and enhancing DSA.
+- 🌱 &nbsp; Learning ReactJS and DSA.
 - 📫 &nbsp; You can mail me at rohankum.37@gmail.com
 - ⚡ &nbsp; Fun fact: I love cricket.
 
